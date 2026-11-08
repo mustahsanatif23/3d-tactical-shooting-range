@@ -13,7 +13,6 @@ heads-up display (HUD).
 | University | Bangladesh Army University of Science and Technology (BAUST) |
 | Department | Computer Science and Engineering (CSE) |
 | Course | CSE 4104 – Computer Graphics Sessional |
-| Project type | Computer Graphics Course Project |
 
 ## Project Overview
 
@@ -72,12 +71,10 @@ the repository does not require external 3D models, textures, or image assets.
 
 - **Python 3.9+**
 - **PyOpenGL**
-- **OpenGL**, **GLU**, and **GLUT/FreeGLUT**
+- **OpenGL**, **GLU**, and **GLUT**
 - Immediate-mode OpenGL primitives and GLUT window/input callbacks
 - Python standard-library `math` module
 
-No `requirements.txt`, build system, texture pack, model pack, or other
-external project asset is included in the repository.
 
 ## Computer Graphics Concepts and Techniques
 
@@ -255,9 +252,9 @@ This repository is prepared as a submission for **CSE 4104 – Computer
 Graphics Sessional** at the **Department of Computer Science and Engineering,
 Bangladesh Army University of Science and Technology (BAUST)**.
 
-Student name, student ID, section, instructor name, and submission date were
-not included in the available project files and are therefore intentionally
-omitted.
+Student name: Mustahsan Atif 
+Student ID: 0802320205101023 
+Teachers' names: Abdullah Al Asif (Lecturer) and Maskur Al Shal Sabil (Lecturer)
 
 ## License
 
